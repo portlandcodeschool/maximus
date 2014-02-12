@@ -1,4 +1,6 @@
 maximus
 =======
 
-A secret project to explore learning and assessment 
+A special project to explore learning and assessment.
+
+See the wiki for more details.
